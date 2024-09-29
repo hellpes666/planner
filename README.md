@@ -39,6 +39,11 @@
 -   NestJS
 -   TypeScript
 -   Prisma
+-   Argon (passwords)
+-   JWT
+-   class-transformer class-validator - For DTO (Data Transfer Object)
+-   date-fns - Работа с датами
+-   Cookie parser 
 
 ### Data Base:
 
