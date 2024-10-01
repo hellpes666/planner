@@ -24,4 +24,4 @@ module.exports = {
 		'no-console': 1,
 		'prettier/prettier': 0
 	}
-}
+};

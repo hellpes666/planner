@@ -6,5 +6,4 @@ async function bootstrap() {
 	await app.listen(4200);
 }
 
-
 bootstrap();

@@ -8,43 +8,43 @@
 
 #### Base
 
--   ReactJS v18
--   Next.JS v14
--   TypeScript
+- ReactJS v18
+- Next.JS v14
+- TypeScript
 
 #### Drag&Drop
 
--   DND Kit - Drag and Drop Format (Для сортировки в одной колонке)
--   React Beautiful DND - Для остального Drag&Drop контента
+- DND Kit - Drag and Drop Format (Для сортировки в одной колонке)
+- React Beautiful DND - Для остального Drag&Drop контента
 
 #### Запросы
 
--   React TanStack Query
--   Axios
--   clsx
--   js cookie
+- React TanStack Query
+- Axios
+- clsx
+- js cookie
 
 #### UI
 
--   React HookForm
--   Sonner (Уведомления)
--   React DayPicker
--   Horizon UI
--   Lucide React
--   TailwindCSS
+- React HookForm
+- Sonner (Уведомления)
+- React DayPicker
+- Horizon UI
+- Lucide React
+- TailwindCSS
 
 ### Backend:
 
--   NodeJS
--   NestJS
--   TypeScript
--   Prisma
--   Argon (passwords)
--   JWT
--   class-transformer class-validator - For DTO (Data Transfer Object)
--   date-fns - Работа с датами
--   Cookie parser 
+- NodeJS
+- NestJS
+- TypeScript
+- Prisma
+- Argon (passwords)
+- JWT
+- class-transformer class-validator - For DTO (Data Transfer Object)
+- date-fns - Работа с датами
+- Cookie parser
 
 ### Data Base:
 
--   PostgreSQL
+- PostgreSQL
